@@ -17,7 +17,7 @@ The primary interface provides a high-level overview of organizational health an
 * **Trend Analysis:** Tracks sales growth from **2020 to 2021** segmented by Sales Method (In-store, Online, Outlet).
 
 ### 2. Item Sales Analysis
-![Item Sales Analysis](Item%20Sales%20Analysis.png)
+![Item Sales Analysis](Item%20Sales%20Analysis)
 
 This page focuses on granular product performance and merchandising efficiency.
 
