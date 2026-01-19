@@ -7,7 +7,7 @@ A high-fidelity, two-page **Power BI** suite designed to analyze **$899.9M** in 
 ## 📊 Dashboard Overview
 
 ### 1. Executive Dashboard
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](Executive%20Dashboard)
 
 The primary interface provides a high-level overview of organizational health and spatial performance.
 
