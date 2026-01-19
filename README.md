@@ -7,6 +7,7 @@ A high-fidelity, two-page **Power BI** suite designed to analyze **$899.9M** in 
 ## 📊 Dashboard Overview
 
 ### 1. Executive Dashboard
+![Executive Dashboard](Executive%20Dashboard.png)
 
 The primary interface provides a high-level overview of organizational health and spatial performance.
 
@@ -16,6 +17,7 @@ The primary interface provides a high-level overview of organizational health an
 * **Trend Analysis:** Tracks sales growth from **2020 to 2021** segmented by Sales Method (In-store, Online, Outlet).
 
 ### 2. Item Sales Analysis
+![Item Sales Analysis](Item%20Sales%20Analysis.png)
 
 This page focuses on granular product performance and merchandising efficiency.
 
